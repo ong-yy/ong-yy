@@ -2,12 +2,8 @@
 
 **I'm Ong**, a software engineer that love to learn, passionate and curious. I'm interested in learning web programming, game programming, system programming, and more intriguing tech. Love to explore new languages, frameworks and random projects in my free time.
 <div>
-  <a href="ongyernyee@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/yern-yee-ong-132605181" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+  <a href="mailto:ongyernyee@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+  <a href="https://www.linkedin.com/in/yern-yee-ong-132605181" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
 </div>
 
 ## Github Statistics 📊
