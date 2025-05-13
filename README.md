@@ -12,8 +12,8 @@
 
 ## Github Statistics 📊
 <div>
-  <img hspace="10" src="https://github-readme-stats-ongyys-projects.vercel.app/api?username=ong-yy&theme=github_dark&show_icons=true&include_all_commits=true&rank_icon=github" />
-  <img src="https://github-readme-stats-ongyys-projects.vercel.app/api/top-langs/?username=ong-yy&theme=github_dark&layout=compact&langs_count=20" />
+  <img src="https://github-readme-stats-ongyys-projects.vercel.app/api?username=ong-yy&theme=github_dark&show_icons=true&include_all_commits=true&rank_icon=github" />
+  <img hspace="10"src="https://github-readme-stats-ongyys-projects.vercel.app/api/top-langs/?username=ong-yy&theme=github_dark&layout=compact&langs_count=20" />
 </div>
 
 ## Development Tools 🔨
